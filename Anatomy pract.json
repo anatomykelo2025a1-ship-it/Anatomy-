@@ -1,0 +1,174 @@
+{
+  "title": "Anatomy Practical (CVS)",
+  "type": "essay",
+  "questions": [
+    {
+      "id": 1,
+      "image": "images/A1.jpg",
+      "question": "<strong>Q1:</strong> Identify the pointed structure and mention its arterial supply?",
+      "modelAnswer": "fibrous pericardium lined by parietal layer of serous pericardium.<br>Arterial supply:<br>1) Pericardiophrenic artery.<br>2) Descending thoracic aorta .<br>3) Internal thoracic artery ."
+    },
+    {
+      "id": 2,
+      "image": "images/A1.jpg",
+      "question": "<strong>Q2:</strong> Identify the pointed structure and mention its nerve supply?",
+      "modelAnswer": "fibrous pericardium lined by praital layer of serous pericardium.<br>Nerve supply:<br>1) Left and right phrenic nerves.<br>2) Intercostal nerves."
+    },
+    {
+      "id": 3,
+      "image": "images/A2.jpg",
+      "question": "<strong>Q3:</strong> Identify the pointed structure and mention its sinuses?",
+      "modelAnswer": "fibrous pericardium lined by praital layer of serous pericardium .<br>Sinuses:<br>1) Transverse sinus.<br>2) Oblique sinus."
+    },
+    {
+      "id": 4,
+      "image": "images/A2.jpg",
+      "question": "<strong>Q4:</strong> Identify the pointed structure and mention its ligaments?",
+      "modelAnswer": "fibrous pericardium lined by praital layer of serous pericardium.<br>Ligaments:<br>1) Superior and inferior sternopericardial ligaments.<br>2) Pericardiophrenic ligament."
+    },
+    {
+      "id": 5,
+      "image": "images/A3.jpg",
+      "question": "<strong>Q5:</strong> Identify the numbering areas?",
+      "modelAnswer": "Opened pericardium showing the anterior surface of the heart and great vessels:<br>1) Fibrous pericardium.<br>2) Right ventricle.<br>3) Pulmonary trunk.<br>4) Ascending aorta.<br>5) Arch of aorta.<br>6) Superior vena cava (SVC).<br>7) Ligamentum arteriosum."
+    },
+    {
+      "id": 6,
+      "image": "images/A4.jpg",
+      "question": "<strong>Q5:</strong> Identify the numbering areas?",
+      "modelAnswer": "Opened pericardium showing the anterior surface of the heart and great vessels:<br>8) Inferior vena cava (IVC).<br>9) Pulmonary trunk and valve.<br>10) Ascending aorta and valve.<br>11) Left pulmonary veins.<br>12) Oblique sinus."
+    },
+    {
+      "id": 7,
+      "image": "images/A5.jpg",
+      "question": "<strong>Q6:</strong> Identify the area related to the white arrow?",
+      "modelAnswer": "Transverse sinus of serous pericardium."
+    },
+    {
+      "id": 8,
+      "image": "images/A5.jpg",
+      "question": "<strong>Q7:</strong> Identify the area related to the yellow arrow?",
+      "modelAnswer": "Oblique sinus of serous pericardium."
+    },
+    {
+      "id": 9,
+      "image": "images/A5.jpg",
+      "question": "<strong>Q8:</strong> Identify the numbering areas??",
+      "modelAnswer": "1) IVC.<br>2) Right pulmonary veins.<br>3) SVC.<br>4) Ascending aorta.<br>5) Arch of aorta.<br>6) Brachiocephalic artery (innominate artery).<br>7) Left common carotid artery.<br>8) Left subclavian artery.<br>9) Pulmonary trunk.<br>10) Right border of heart made by right atrium and covered by fibrous pericardium."
+    },
+    {
+      "id": 10,
+      "image": "images/A6.jpg",
+      "question": "<strong>Q9:</strong> Identify the pointed numbers?",
+      "modelAnswer": "1) Right atrium.<br>2) Right ventricle.<br>3) Left ventricle.<br>4) Arch of aorta.<br>5) Brachiocephalic artery.<br>6) Left common carotid artery.<br>7) Left subclavian artery."
+    },
+    {
+      "id": 11,
+      "image": "images/A7.jpg",
+      "question": "<strong>Q9:</strong> Identify the pointed numbers?",
+      "modelAnswer": ":<br>8. Left atrium<br>9. Left ventricle<br>10. Atrioventricular groove or coronary sulcus"
+    },
+    {
+      "id": 12,
+      "image": "images/A8.jpg",
+      "question": "<strong>Q10:</strong> Identify the pointed structures?",
+      "modelAnswer": "A. Right coronary artery<br>B. Left coronary giving circumflex branch<br>C. Left anterior descending or anterior interventricular artery<br>D. Arch of aorta"
+    },
+    {
+      "id": 13,
+      "image": "images/A10.jpg",
+      "question": "<strong>Q12:</strong> Identify the pointed structures?",
+      "modelAnswer": "A. Left ventricle<br>B. Trabeculae carneae and papillary muscles<br>C. Interventricular septum<br>D. Right ventricle"
+    },
+    {
+      "id": 14,
+      "image": "images/A11.jpg",
+      "question": "<strong>Q13:</strong> Identify the numbering areas?",
+      "modelAnswer": "1. Apex of heart<br>2. Left ventricular wall<br>3. Papillary muscle<br>4. Interventricular septum<br>5. Right ventricle<br>6. Opening of IVC<br>7. Opening of SVC<br>8. Pulmonary trunk<br>9. Ascending aorta<br>10. Arch of aorta"
+    },
+    {
+      "id": 15,
+      "image": "images/A12.jpg",
+      "question": "<strong>Q14:</strong> Identify the pointed structures?",
+      "modelAnswer": "1. Tricuspid valve<br>2. Right coronary artery<br>3. Aorta and aortic valve<br>4. Pulmonary artery & valve<br>5. Left coronary artery<br>6. Mitral valve"
+    },
+    {
+      "id": 16,
+      "image": "images/A13.jpg",
+      "question": "<strong>Q15:</strong> Identify the cardiac anomales?",
+      "modelAnswer": "atrial septal defect"
+    },
+    {
+      "id": 17,
+      "image": "images/A14.jpg",
+      "question": "<strong>Q16:</strong> Identify the cardiac anomales?",
+      "modelAnswer": " Ventricular Septal Defect "
+    },
+    {
+      "id": 18,
+      "image": "images/A15.jpg",
+      "question": "<strong>Q17:</strong> Identify the cardiac anomales?",
+      "modelAnswer": "Ventricular Septal Defect (VSD)"
+    },
+    {
+      "id": 19,
+      "image": "images/A16.jpg",
+      "question": "<strong>Q18:</strong> Identify the cardiac anomales?",
+      "modelAnswer": "teratology of fallot"
+    },
+    {
+      "id": 20,
+      "image": "images/A17.jpg",
+      "question": "<strong>Q19:</strong> Identify the cardiac anomales?",
+      "modelAnswer": "patent ductus arteriosus"
+    },
+    {
+      "id": 21,
+      "image": "images/A18.jpg",
+      "question": "<strong>Q20:</strong> Identify the pointed structure and mention two branches?",
+      "modelAnswer": "arch of aorta <br>1)Brachiocephalic artery.<br>2) Left common carotid artery.<br>3) Left subclavian artery."
+    },
+    {
+      "id": 22,
+      "image": "images/A18.jpg",
+      "question": "<strong>Q21:</strong> Identify the pointed structure and mention the level of its termination?",
+      "modelAnswer": "Arch of aorta.<br>Termination: at the lower border of the body of thoracic vertebra number 4."
+    },
+    {
+      "id": 23,
+      "image": "images/A19.jpg",
+      "question": "<strong>Q22:</strong> Identify the pointed structure and mention two tributaries?",
+      "modelAnswer": "left Brachiocephalic vein<br>1) Left internal jugular vein.<br>2) Left subclavian vein."
+    },
+    {
+      "id": 24,
+      "image": "images/A19.jpg",
+      "question": "<strong>Q23:</strong> Identify the pointed structure and mention its termination?",
+      "modelAnswer": "Left brachiocephalic vein.<br>Termination: union with right brachiocephalic vein at the level of right 1st costal cartilage to form the SVC."
+    },
+    {
+      "id": 25,
+      "image": "images/A20.jpg",
+      "question": "<strong>Q24:</strong> Identify the numbering areas?",
+      "modelAnswer": "1. Celiac trunk<br>2. Common hepatic artery<br>3. Superior mesenteric artery<br>4. IVC<br>5. Right common iliac<br>6. Right External iliac<br>7. Inferior mesenteric artery<br>8. Abdominal aorta<br>9. Splenic artery<br>10. Left renal artery"
+    },
+    {
+      "id": 26,
+      "image": "images/A25.jpg",
+      "question": "<strong>Q25:</strong> Identify the pointed structure (1) and mention two branches?",
+      "modelAnswer": "Right common carotid artery<br>1. Rt External carotid artery<br>2. Rt Internal carotid artery"
+    },
+    {
+      "id": 27,
+      "image": "images/A25.jpg",
+      "question": "<strong>Q26:</strong> Identify the pointed structure (2) and mention the level of its beginning?",
+      "modelAnswer": "Right external carotid artery<br>Begins at level of intervertebral disc between cervical vertebrea number 3 and 4  "
+    },
+    {
+      "id": 28,
+      "image": "images/A25.jpg",
+      "question": "<strong>Q27:</strong> Identify the pointed structure (3) and mention two branches?",
+      "modelAnswer": "Right internal carotid artery<br>1. Anterior cerebral artery<br>2. middle cerebral artery"
+    }
+  ]
+}
